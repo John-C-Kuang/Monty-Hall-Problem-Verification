@@ -5,4 +5,5 @@
 ##### 1. Navigate to the directory containing the JAR file. 
 ##### 2. Eenter the number of rounds to run the experiment.   
 ##### 3. Done!    
-##### Example: "$"
+##### Example: "$Java -jar Monty-Hall-Problem-Verification.jar 100000"
+
